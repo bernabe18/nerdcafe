@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a18bc76a-a556-41f1-9d2f-a036b157a5f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/controller/ClienteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/controller/ItemPedidoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/controller/PedidoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/controller/ProductoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/ItemPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/repository/ClienteRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/repository/ItemPedidoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/repository/PedidoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/repository/ProductoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ClienteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ItemPedidoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/PedidoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ProductoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ServiceImpl/ClienteServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ServiceImpl/ItemPedidoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ServiceImpl/PedidoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ServiceImpl/ProductoServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentacion/diagrama de clase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
