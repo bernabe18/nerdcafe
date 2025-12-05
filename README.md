@@ -35,6 +35,7 @@ El objetivo principal es aplicar los conceptos aprendidos en programación orien
 - **Paradigma:** Programación Orientada a Objetos  
 - **IDE sugerido:** IntelliJ IDEA 
 - **Consultas HTTP:** Postman
+- **Base de Datos:** MYSQL
 
 ---
 
