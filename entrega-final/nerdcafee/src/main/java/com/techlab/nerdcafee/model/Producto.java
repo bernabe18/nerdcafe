@@ -1,17 +1,17 @@
 package com.techlab.nerdcafee.model;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity
-@Getter
-@Setter
+@Getter @Setter
+@AllArgsConstructor @NoArgsConstructor
 public class Producto {
-
 
 @Id
 @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -21,14 +21,6 @@ private String nombre;
 private double precio;
 private String descripcion;
 private String categoria;
+private Integer stock;
 
-
-public Producto(String nombre, double precio, String descripcion, String categoria) {
-	this.nombre = nombre;
-	this.precio = precio;
-	this.descripcion = descripcion;
-	this.categoria = categoria;
-}
-
-public Producto() {}
 }

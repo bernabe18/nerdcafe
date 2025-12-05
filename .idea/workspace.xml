@@ -5,7 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a18bc76a-a556-41f1-9d2f-a036b157a5f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/controller/ClienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/controller/ItemPedidoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/controller/PedidoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/controller/ProductoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/ItemPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/repository/ClienteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/repository/ItemPedidoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/repository/PedidoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/repository/ProductoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ClienteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ItemPedidoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/PedidoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ProductoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ServiceImpl/ClienteServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ServiceImpl/ItemPedidoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ServiceImpl/PedidoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/service/ServiceImpl/ProductoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentacion/diagrama de clase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/model/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/entrega-final/nerdcafee/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,17 +40,24 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="35ieYqFplZRUHl84FdTg5A2WjKp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +67,7 @@
     &quot;Application.NerdcafeeApplication.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
@@ -70,5 +102,16 @@
       <updated>1763597370806</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/entrega-final/nerdcafee/src/main/java/com/techlab/nerdcafee/controller/ItemPedidoController.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
